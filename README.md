@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm manshi verma</h1>
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 linkdenIn [www.linkedin.com/in/manshi-verma-0aa438250](www.linkedin.com/in/manshi-verma-0aa438250)
+- 👨‍💻 linkdenIn [www.linkedin.com/in/manshi-verma-0aa438250](www.linkedin.com/in/manshi-verma)
 
 - 📫 How to reach me **manshiverma024@gmail.com**
 
