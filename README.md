@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning dsa with java,javascript.
 - 👯 I’m looking to collabrate with android devlopment.
 - 🤔 I’m looking for help with javascript.
-
 - 😄 she/her
-
+-->
 
